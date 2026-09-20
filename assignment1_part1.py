@@ -32,14 +32,4 @@ def test_list_divide():
 if __name__ == "__main__":
     test_list_divide()
 
-# 1. Check current repository status
-git status
 
-# 2. Stage assignment1_part1.py
-git add assignment1_part1.py
-
-# 3. Commit the file with a descriptive message
-git commit -m "Add list_divide implementation and test suite for Assignment 1 Part 1"
-
-# 4. Push the commit to your remote GitHub repository
-git push origin main
