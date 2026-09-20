@@ -33,3 +33,14 @@ if __name__ == "__main__":
     test_list_divide()
 
 
+# 1. Check repository status (shows assignment1_part1.py as an untracked file)
+# git status
+
+# 2. Add the file to the staging area
+# git add assignment1_part1.py
+
+# 3. Commit the file to the default branch
+# git commit -m "Add assignment1_part1.py with list_divide and test_list_divide"
+
+# 4. Push the commit to GitHub
+# git push origin master
